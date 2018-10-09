@@ -20,7 +20,7 @@ public class Main {
                 try {
 
 
-                    Scanner input = new Scanner (new File("/home/black/file2.txt"));
+                    Scanner input = new Scanner (new File("E:\New folder (2)\NetBeansProjects.txt"));
 
                     while (input.hasNext()){
                         text += input.nextLine() + " ";
